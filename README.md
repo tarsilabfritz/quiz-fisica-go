@@ -17,7 +17,7 @@ Certifique-se de que você tem o Go instalado em sua máquina. Se não tiver, po
 ### 📝 Passo a Passo
 1. Clone este repositório para o seu computador:
 
-    ```git clone https://github.com/seu-usuario/quiz-fisica-go.git```
+    ```git clone https://github.com/tarsilabfritz/quiz-fisica-go.git```
 
 2. Navegue até o diretório do projeto:
 
