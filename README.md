@@ -13,7 +13,7 @@ Este é um projeto de quiz desenvolvido na linguagem Go como parte do curso de I
 
 ## 🚀 Como Rodar o Projeto
 ### 🔧 Pré-requisitos
-Certifique-se de que você tem o Go instalado em sua máquina. Se não tiver, pode fazer o download e seguir o tutorial de instalação <a href="https://golang.org/doc/install" target="_blank">aqui</a>.
+Certifique-se de que você tem o Go instalado em sua máquina. Se não tiver, pode fazer o download e seguir o tutorial de instalação [aqui](https://golang.org/doc/install).
 ### 📝 Passo a Passo
 1. Clone este repositório para o seu computador:
 
@@ -33,4 +33,4 @@ Certifique-se de que você tem o Go instalado em sua máquina. Se não tiver, po
 Se quiser contribuir, fique à vontade para enviar pull requests com melhorias, novas questões ou sugestões!
 
 ## 📜 Licença 
-Esse projeto é de código aberto sob a licença MIT. Veja o arquivo <a href="LICENSE" target="_blank">LICENSE</a> para mais detalhes.
+Esse projeto é de código aberto sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
